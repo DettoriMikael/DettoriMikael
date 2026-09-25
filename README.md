@@ -1,16 +1,38 @@
-## Hi there 👋
+# Ciao! 👋
 
-<!--
-**DettoriMikael/DettoriMikael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno studente di Informatica e questo è l'inizio
+del mio portfolio tecnico.
 
-Here are some ideas to get you started:
+## 👤 Qualcosa su di me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi chiamo Mikael, sono originario di Arcisate(VA) e sono nato il 04/01
+
+## ❤️ Le mie passioni
+
+- Tboi
+- Gurren lagann
+- Videogiochi
+
+## 💻 Tecnologia ed esperienze
+
+Ho già avuto occasione di utilizzare o conoscere:
+
+- HTML
+- Scratch
+- Un po' di python/pygame
+
+## 🧠 Una cosa che potrei insegnare ai miei compagni
+
+Dragonball lore
+
+## 🔍 Cosa mi piacerebbe imparare
+
+linguaggi di codice come C/C++
+
+## 🚀 Un progetto che mi piacerebbe realizzare
+
+Un videogioco indie 
+
+## 🎯 Guardando al futuro
+
+Trovare un lavoro ben pagante
